@@ -23,9 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "🌙 Official bot of r1se
-⚡ Powering the server with style & automation.
-🛠️ Made exclusively for r1se.", // required by Discord API, not shown in the client
+        name: "R1SE Community:heart:", // required by Discord API, not shown in the client
         state: "stalking",     // this is what people actually see
         type: 4,               // Custom
       },
